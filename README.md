@@ -1,0 +1,2 @@
+# JAVAAndIDEA
+这是我用来测试IDEA项目种直接导入我所需要的GitHub上的仓库的实验
