@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVAAndIDEA.iml" filepath="$PROJECT_DIR$/JAVAAndIDEA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csc/csc.iml" filepath="$PROJECT_DIR$/csc/csc.iml" />
+    </modules>
+  </component>
+</project>
